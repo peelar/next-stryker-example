@@ -33,3 +33,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# stryker temp files
+.stryker-tmp
+
+# stryker reports
+reports/mutation
